@@ -1,0 +1,27 @@
+.h1{
+    color: orange;
+}
+
+.h2{
+    color: aqua;
+}
+
+.h3{
+    color: rgb(255, 0, 195);
+}
+
+.h4{
+    color: blueviolet;
+}
+
+.h5{
+    color: chartreuse;
+}
+
+.h6{
+    color: crimson; 
+}
+
+.button{
+    margin-bottom: 1em;
+}
